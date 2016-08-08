@@ -1,0 +1,13 @@
+{
+    "name": "adamplaga/cxense",
+    "description": "A php class for Cxense API",
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "authors": [
+        {
+            "name": "adamplaga",
+            "email": "adplaga@gmail.com"
+        }
+    ]
+}
